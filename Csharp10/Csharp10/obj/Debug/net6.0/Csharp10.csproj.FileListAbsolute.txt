@@ -1,0 +1,15 @@
+D:\Personal\C#10\Csharp10\Csharp10\bin\Debug\net6.0\Csharp10.exe
+D:\Personal\C#10\Csharp10\Csharp10\bin\Debug\net6.0\Csharp10.deps.json
+D:\Personal\C#10\Csharp10\Csharp10\bin\Debug\net6.0\Csharp10.runtimeconfig.json
+D:\Personal\C#10\Csharp10\Csharp10\bin\Debug\net6.0\Csharp10.dll
+D:\Personal\C#10\Csharp10\Csharp10\bin\Debug\net6.0\Csharp10.pdb
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\Csharp10.csproj.AssemblyReference.cache
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\Csharp10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\Csharp10.AssemblyInfoInputs.cache
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\Csharp10.AssemblyInfo.cs
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\Csharp10.csproj.CoreCompileInputs.cache
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\Csharp10.dll
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\refint\Csharp10.dll
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\Csharp10.pdb
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\Csharp10.genruntimeconfig.cache
+D:\Personal\C#10\Csharp10\Csharp10\obj\Debug\net6.0\ref\Csharp10.dll
